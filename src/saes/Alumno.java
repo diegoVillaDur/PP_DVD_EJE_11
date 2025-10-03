@@ -29,7 +29,7 @@ public class Alumno {
 
     public void setBoleta(String boleta) {
         this.boleta = boleta;
-    }   
+    }
 
     public String getNombre() {
         return nombre;

@@ -66,7 +66,7 @@ public class Grupo {
     public void setMaterias(Materia materia) {
         materias.add(materia);
     }
-    
+
     public boolean inscribirAlumno(Alumno alumno) {
         if (alumnos.size() < cupo) {
             alumnos.add(alumno);
