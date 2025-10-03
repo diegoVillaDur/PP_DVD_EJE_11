@@ -6,5 +6,4 @@ public enum TipoSolicitud {
     Constancia_Estudions,
     Constancia_Insctipcion,
     Boleta
-
 }
